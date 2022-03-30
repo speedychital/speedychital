@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @speedychital
 - 👀 I’m interested in WebDev and many other technologies, which i want to try on in future!
-- 🌱 I’m currently learning React, JavaScript(which never stops!), completing my electronics and communication engineering at MNIT Jaipur.
+- 🌱 I’m currently learning server-side programming, pursuing my electronics and communication engineering at MNIT Jaipur.
 - 💞️ I’m looking to collaborate on various frontendprojects.
 - 📫 How to reach me 
     Mail- singhaladitya202@gmail.com
